@@ -1,0 +1,3 @@
+﻿  Snake.cpp
+c:\users\vluz\documents\c++\cpp_practice\snake\snake\snake.cpp(132): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Snake.vcxproj -> C:\Users\vluz\Documents\C++\Cpp_Practice\Snake\Debug\Snake.exe
